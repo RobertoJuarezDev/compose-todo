@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.ju4r3z.composetodoapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ju4r3z.composetodoapp"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
